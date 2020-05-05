@@ -15,6 +15,6 @@ Graphics:
 ## New changes in the game
 
 Change 1: The player start the game with 3 lives. He can see the number of lives left in the right corner of the screen.
-Every time the enemy hits the player, the player loses a live.
+Every time the enemy hits the player, the player loses a life.
 
 Change 2: There is a new bonus in the game, Whene the player collect a 'L' he gets 1 life.
