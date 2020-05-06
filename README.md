@@ -1,6 +1,6 @@
 # New changes in the game
 
-<u/>Change 1:<u/> The player start the game with 3 lives. He can see the number of lives left in the right corner of the screen.
+<ins>Change 1:</ins> The player start the game with 3 lives. He can see the number of lives left in the right corner of the screen.
 Every time the enemy hits the player, the player loses a life.<br/>
 Code: GameWithChangesE6/Assets/Scripts/3-collisions/DestroyOnTrigger2D.cs
 GameWithChangesE6/Assets/Scripts/4-text/LifeScore.cs
