@@ -20,3 +20,4 @@ Code: GameWithChangesE6/Assets/Scripts/3-collisions/DestroyOnTrigger2D.cs
 GameWithChangesE6/Assets/Scripts/4-text/LifeScore.cs
 
 Change 2: There is a new bonus in the game, Whene the player collect a 'L' he gets 1 life.
+Code: 
